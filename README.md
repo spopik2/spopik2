@@ -16,10 +16,10 @@
 
 ### GitHub Stats
 <a href="https://github.com/spopik2/spopik2">
-  <img align="center" src=https://github-readme-stats.vervel.app/api/top-langs/?wsername-spopik2&hide=html&title_colorffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21/>
+  <img align="center" src="https://github-readme-stats.vervel.app/api/top-langs/?wsername-spopik2&hide=html&title_colorffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 <a href="https://github.com/spopik2/spopik2">
-  <img align="center" src=https://github-readme-stats.vervel.app/api?username=spopik2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&tex_colorc9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Steve Popik's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vervel.app/api?username=spopik2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&tex_colorc9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Steve Popik's GitHub Stats"/>
 </a>
 
 
