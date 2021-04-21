@@ -14,6 +14,9 @@
 
 ### Technology & Tools
 
+![Text Editor](https://img.sheilds.io/badge/Editor-VS%20Code-green?style=for-the-badge&logo=visualstudiocode)(https://code.visualstudio.com)
+
+
 ### GitHub Stats
 <a href="https://github.com/spopik2/spopik2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spopik2&hide=html&title_colorffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
