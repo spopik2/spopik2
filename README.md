@@ -14,7 +14,7 @@
 
 ### Technology & Tools
 
-![Text Editor](https://img.shields.io/badge/Editor-VS%20Code-green?style=for-the-badge&logo=visualstudiocode)(https://code.visualstudio.com)
+[![Text Editor](https://img.shields.io/badge/Editor-VS%20Code-green?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
 
 
 ### GitHub Stats
